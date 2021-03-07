@@ -1,1 +1,0 @@
-el primer fichero git de mi repositorio
